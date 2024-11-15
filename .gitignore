@@ -4,3 +4,9 @@ env
 .venv
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+/image_dataset
+/data.npy
+/labels.npy
+.DS_Store
+/preprocessed_arrays
+/edge_detected_arrays
